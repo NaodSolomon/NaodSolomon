@@ -1,92 +1,93 @@
-<!-- GitHub Profile README for Naod Solomon -->
-
-<h1 align="center">👋 Hi, I'm Naod Solomon</h1>
-<h3 align="center">💬 Chatbot Developer | 🤖 Automation Builder | 🧠 AI Enthusiast</h3>
-
-<p align="center">
-  <a href="mailto:naodsolomon8911@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" alt="Email Badge"/></a>
-  <a href="https://www.linkedin.com/in/naod-solomon-842b95341" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn Badge"/></a>
-  <img src="https://img.shields.io/badge/Location-Addis%20Ababa,%20Ethiopia-lightgrey?style=flat&logo=googlemaps"/>
-</p>
+# 👋 Hi, I'm Naod Solomon  
+💬 Chatbot Developer | 🤖 Automation Builder | 🧠 AI Enthusiast  
+📧 [Email](mailto:naodsolomon8911@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/naod-solomon-842b95341)
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me  
 
-I'm a specialized **Chatbot Developer** with hands-on experience building intelligent, scalable, and multi-platform bots. I have developed over **20 chatbot projects** for clients and personal initiatives — including **Telegram bots**, **AI assistants**, **business automation bots**, and **multi-channel customer support bots**.
+I'm a specialized Chatbot Developer with hands-on experience building intelligent, scalable, and multi-platform bots.  
+I’ve built over **20 chatbot projects** for clients and personal use — including Telegram bots, AI assistants, automation bots, and multi-channel customer support systems.
 
-My bots are built to help businesses:
-- Reduce support costs
-- Improve customer satisfaction
-- Automate repetitive workflows
+My bots help businesses:
+
+- ✅ Reduce support costs  
+- ✅ Improve customer satisfaction  
+- ✅ Automate repetitive workflows  
+- ✅ Streamline orders and product browsing  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+Python • SQL • HTML • CSS  
 
 **Frameworks & Tools**  
-![Rasa](https://img.shields.io/badge/Rasa-000000?style=flat&logo=rasa&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+Rasa • Dialogflow • Flask • FastAPI • ManyChat  
 
 **APIs & NLP**  
-![Telegram](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
-![Facebook Messenger](https://img.shields.io/badge/Facebook%20Messenger-0084FF?style=flat&logo=facebook-messenger)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat&logo=openai&logoColor=white)
+Telegram • WhatsApp • Facebook Messenger • OpenAI  
 
 **Database & DevOps**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Lambda-orange?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+PostgreSQL • MongoDB • Firebase • Docker • AWS • GitHub Actions • Google Sheets  
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects  
 
-#### 🧠 GPT Support Bot
-> Customer service chatbot powered by **OpenAI GPT-4** with rule-based fallback and context awareness.
+### 🧸 E-commerce Telegram Bot – Kids Clothing Store  
+**Tools:** ManyChat, Google Sheets, Telegram, Live Agent Routing  
 
-#### 💬 OmniSupport
-> A multi-platform chatbot system working across **Telegram**, **WhatsApp**, **Messenger**, and **Web**, all with centralized analytics.
+Built a Telegram-based shopping bot for a kids’ clothing business.  
+Key features include:  
+- Product browsing by categories (Clothing, Shoes, Accessories)  
+- Personal info collection during checkout (name, address, phone)  
+- Payment screenshot upload and live agent confirmation  
+- Order storage and processing through Google Sheets  
+- Smart FAQs and welcome automation  
 
-#### 🧩 Framework Fusion
-> A backend system integrating **Rasa**, **Dialogflow**, and **Microsoft Bot Framework** to showcase multi-framework compatibility.
-
-#### ☁️ Serverless Chat
-> Deployed a chatbot on **AWS Lambda** with **real-time logging** and **sentiment-based routing**.
-
-#### 🎭 Emotion Detector Bot
-> NLP chatbot that adapts tone and response based on user sentiment using **Hugging Face Transformers**.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naodsolomon&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naodsolomon&theme=tokyonight" width="49%" />
-</p>
+**Impact:**  
+- ⚡ Reduced response time by 60%  
+- 💬 Handled 90% of queries without a live agent  
+- 📈 Boosted order flow and customer engagement  
 
 ---
 
-### 📫 Get in Touch
+### 🎮 E-commerce Telegram Bot – Game Retail Store  
+**Tools:** ManyChat (no-code), Google Sheets, Telegram  
 
-- 📧 Email: [naodsolomon8911@gmail.com](mailto:naodsolomon8911@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/naod-solomon-842b95341](https://www.linkedin.com/in/naod-solomon-842b95341)  
-- 📍 Location: Addis Ababa, Ethiopia
+Created a comprehensive Telegram store experience for a physical video game shop in Ethiopia.  
+Highlights include:  
+- Game catalog browsing with images and prices  
+- Platform filters (PS5, PS4, Xbox, PC, Nintendo)  
+- Simple “Buy Now” system with delivery info collection  
+- Order management via Google Sheets  
+- Fun tone and instant FAQ responses  
+- Seamless fallback to human support when needed  
+
+**Bot Architecture:**  
+- Modular flow (12+ automations including welcome, product browse, delivery, and order status)  
+- Scalable and easy to update  
+
+**Client Feedback:**  
+> “This bot simplified our sales. Our customers love browsing games on Telegram!”
+
+**🚧 Upgrade in Progress:**  
+Migrating to a **custom-coded solution** to include:  
+- Inline product search  
+- Analytics dashboard  
+- Backend scalability and new features  
 
 ---
 
-> “Let bots handle the boring stuff — so you can focus on what matters.”
+## 📈 GitHub Stats  
+<!-- Optionally embed: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) -->
 
+---
+
+## 📫 Get in Touch  
+
+📧 **Email**: [naodsolomon8911@gmail.com](mailto:naodsolomon8911@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/naod-solomon-842b95341](https://linkedin.com/in/naod-solomon-842b95341)  
+📍 **Location**: Addis Ababa, Ethiopia  
