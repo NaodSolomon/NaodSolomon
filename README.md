@@ -70,14 +70,6 @@ AI-powered farming assistant chatbot to help small farmers optimize crops, soil,
 
 ---
 
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/NaodSolomon/NaodSolomon/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>  
-
----
-
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](your-linkedin-url)  
 - 📧 **Email:** your.email@example.com  
