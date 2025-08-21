@@ -39,17 +39,35 @@ AI-powered farming assistant chatbot to help small farmers optimize crops, soil,
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Python, JavaScript, C++  
-**Frameworks & Tools:** FastAPI, Flask, Node.js, LangChain, Hugging Face  
-**Databases:** PostgreSQL, MongoDB, FAISS, Pinecone  
-**DevOps:** GitHub Actions, Docker, AWS, Azure  
-**Other:** RAG, LLM Fine-tuning, Voice APIs, WebSockets  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Naod's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaodSolomon&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaodSolomon&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaodSolomon&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/naod-solomon-842b95341)  
-- 📧 **Email:** naodsolomon8911@gmail.com  
+- 💼 [LinkedIn](your-linkedin-url)  
+- 📧 **Email:** your.email@example.com  
 
 ---
 
