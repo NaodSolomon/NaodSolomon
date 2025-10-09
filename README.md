@@ -72,12 +72,6 @@ A productivity app with user authentication and advanced task management.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
-## 📫 Let's Connect
-
-- [LinkedIn](your-linkedin-url)
-- [Portfolio Website](your-portfolio-url)
-- [Email](mailto:your-email@domain.com)
-
 ---
 
 *Currently sharpening my skills in advanced cloud patterns and system design. Open to new opportunities and collaborations!*
@@ -87,7 +81,7 @@ A productivity app with user authentication and advanced task management.
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](www.linkedin.com/in/naod-solomon-842b95341)  
 - 📧 **Email:** naodsolomon8911@gmail.com 
-
+- [Portfolio Website](your-portfolio-url)
 ---
 
 ⚡ *“Building intelligent systems that bridge problem-solving and real-world impact.”*  
